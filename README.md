@@ -59,6 +59,8 @@ This repository exists to document, track, and make sense of that shift.
 - [Upsonic](https://upsonic.ai/)
 - [Eesel AI](https://www.eesel.ai/)
 - [Shopbeni](https://shopbeni.com/)
+- [Solenya](https://www.solenya.ai/)
+- [Saleor](https://saleor.io/agentic-commerce)
 
 ## 🛍️ ACP Platforms & Tools
 - [ACP Feed](https://acpfeed.com/)
