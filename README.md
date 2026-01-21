@@ -155,6 +155,7 @@ This repository exists to document, track, and make sense of that shift.
 
 ## 💬 Community Resources
 - [Awesome UCP](https://github.com/Upsonic/awesome-ucp)
+- [Awesome Agentic Commerce by OrcaQubits](https://github.com/OrcaQubits/awesome-agentic-commerce)
 - [Awesome Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
 - [A2A Protocol Community](https://a2aprotocol.ai/)
 - [Agent2Agent Info](https://agent2agent.info/)
