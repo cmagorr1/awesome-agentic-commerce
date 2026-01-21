@@ -62,6 +62,7 @@ This repository exists to document, track, and make sense of that shift.
 - [Shopbeni](https://shopbeni.com/)
 - [Solenya](https://www.solenya.ai/)
 - [Saleor](https://saleor.io/agentic-commerce)
+- [OrcaQubits](https://orcaqubits-ai.com/)
 
 ## 🛍️ ACP Platforms & Tools
 - [ACP Feed](https://acpfeed.com/)
