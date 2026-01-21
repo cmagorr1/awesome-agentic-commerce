@@ -6,20 +6,6 @@ Agentic commerce is the shift from people clicking buy buttons to AI agents acti
 
 This repository exists to document, track, and make sense of that shift.
 
-## 🧭 Table of Contents (Legend)
-- [📣 Official Announcements](#official-announcements)
-- [🧱 Official Protocols & Core Systems](#official-protocols--core-systems)
-- [🗂️ Official Github Projects](#official-github-projects)
-- [🧩 Protocol Deep Dives](#protocol-deep-dives)
-- [🧪 Developer Tools & Validation](#developer-tools--validation)
-- [📖 Learning Resources](#learning-resources)
-- [💬 Community Resources](#community-resources)
-- [🧰 Platforms & Tools](#platforms--tools)
-- [🛍️ ACP Platforms & Tools](#acp-platforms--tools)
-- [📚 Books](#books)
-- [💻 Notable Github Projects](#notable-github-projects)
-- [🤝 Contributing](#contributing)
-
 ## 📣 Official Announcements
 - [OpenAI's ACP Announcement](https://openai.com/index/buy-it-in-chatgpt/)
 - [Google's UCP Announcement](https://blog.google/company-news/inside-google/message-ceo/nrf-2026-remarks/)
