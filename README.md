@@ -39,6 +39,7 @@ This repository exists to document, track, and make sense of that shift.
 - [TryChannel3 - YC S25](https://trychannel3.com/)
 - [PayWithLocus - YC F25](https://paywithlocus.com/)
 - [Nekuda](https://nekuda.ai/)
+- [CartAI](https://www.cartai.ai/)
 - [Stateset](https://www.stateset.com/)
 - [Simple Checkout](https://simplecheckout.ai/)
 - [MCP Pay](https://mcpay.tech/)
